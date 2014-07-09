@@ -19,3 +19,6 @@ require_relative './honkr/scripts/sign_in.rb'
 
 
 require_relative '../config/environments.rb'
+require 'active_record'
+
+

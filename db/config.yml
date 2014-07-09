@@ -1,0 +1,11 @@
+development:
+  adapter: postgresql
+  database: honkr-ar_dev
+  pool: 5
+  timeout: 5000
+
+test:
+  adapter: postgresql
+  database: honkr-ar_test
+  pool: 5
+  timeout: 5000
